@@ -3,7 +3,7 @@
 ## Budget Analysis.ipynb
 
 This file is a Python code to analyse our homes expenses on 3 levels :
-- Grossery Expenses
+- Grocery Expenses
 - Cat Expenses
 - Others Expenses
 
